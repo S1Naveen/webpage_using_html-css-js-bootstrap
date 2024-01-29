@@ -1,0 +1,168 @@
+.nav-item1{
+	color: #323f4b;
+	font-family: "Roboto";
+}
+.nav-item2{
+	color: #323f4b;
+	font-family: "Roboto";
+}
+.nav-item3{
+	color: #323f4b;
+	font-family: "Roboto";
+}
+.nav-item4{
+	color: #323f4b;
+	font-family: "Roboto";
+}
+
+.logo{
+	width: 80px;
+	height: 70px;
+}
+
+.bg-img{
+	background-image: url("../img/banner-bg.png");
+	background-size: cover;
+	height: 100vh;
+}
+.heading{
+	color: white;
+	font-size: 45px;
+	font-weight: 300;
+	font-family: 'Roboto';
+}
+.para{
+	color: white;
+	font-size: 20px;
+	font-weight: 300;
+	font-family: 'Roboto';
+}
+
+.custom-btn{
+	width: 130px;
+	height: 45px;
+	color: white;
+	background-color: transparent;
+	border-width: 1;
+	border-radius: 8px;
+	margin-right: 10px;
+	border-style: solid;
+	border-color: green;
+
+}
+.btn-style{
+	width: 130px;
+	height: 45px;
+	color: white;
+	background-color: transparent;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #d0b200;
+	border-radius: 8px;
+}
+
+.wcu-section{
+	background-color: #f9fbfe;
+}
+.wcu-head{
+	font-family: "Roboto";
+	font-weight: 300;
+	font-size: 28px;
+	color: #183b56;
+}
+
+.wcu-para{
+	font-family: 'Roboto';
+	font-size: 20px;
+	font-weight: 300;
+	color: #5a7481;
+
+}
+.wcu-card{
+	background-color: white;
+	text-align: center;
+	border-radius: 16px;
+	border-color: #e5eaf4;
+	border-style: solid;
+}
+
+.card-title{
+	font-family: 'Roboto';
+	font-weight: 500;
+	font-size: 20px;
+	color: #323f4b;
+}
+.card-des{
+	font-family: 'Roboto';
+	font-size: 16px;
+	font-weight: 300;
+}
+
+/*fresh food */
+
+.fresh{
+	font-family: 'Roboto';
+	font-size: 20px;
+	color: cadetblue;
+	font-weight: 500;
+	padding-top: 16px;
+}
+
+.f-para{
+	font-family: "Roboto";
+	font-weight: 300;
+	font-size: 16px;
+	color: cadetblue;
+	padding-top: 16px;
+}
+.fresh-card{
+	text-align: center;
+	border-radius: 16px;
+	border-style: solid;
+	background-color: white;
+	border-color: lightblue;
+	border-width: 1px;
+
+}
+.fresh-img{
+	width: 87px;
+	height: 90px;
+}
+
+.span{
+	color: green;
+	font-family: cursive;
+	font-weight: 300;
+	text-decoration: underline;
+}
+
+/*explore menu*/
+
+.explore-menu-section {
+  background-color: white;
+}
+.menu-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.menu-item-image {
+  border-radius: 16px;
+}
+.menu-card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+.menu-item-link {
+  color: #d0b200;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+.menu-item-card {
+  border-radius: 16px;
+}
